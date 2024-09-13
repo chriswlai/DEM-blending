@@ -1,1 +1,3 @@
-Prototyping and testing in Python done in vira-testing, final version in C++ file geotiff_dev.cpp in vira.
+Prototyping and testing in vira-testing folder using Python.
+
+The final version is geotiff_dev.cpp in vira folder using C++.
